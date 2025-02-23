@@ -21,7 +21,7 @@ const Header = () => {
           </NavbarBrand>
         </div>
 
-        {/* Container centralizado para a Nav
+        {/* Container centralizado para a Nav */}
         <div className="flex-grow-1 d-flex justify-content-center ">
           <Nav navbar className="navbar-nav d-flex">
             <NavItem >
@@ -40,7 +40,7 @@ const Header = () => {
               <NavLink tag={Link} to="/contact">Contact</NavLink>
             </NavItem>
           </Nav>
-        </div> */}
+        </div>
 
         {/* Espaço vazio para equilibrar visualmente */}
         <div className="d-flex" style={{ minWidth: "180px" }}></div>
