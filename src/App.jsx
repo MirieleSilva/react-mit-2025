@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 import{Container}from "reactstrap";
 import Header from "./components/Header";
-import Home from "./components/Home";
 import backgroundImg from './assets/background.jpg' // Usa a imagem importada
 import Feedback from "./components/Feedback";
 import './App.css';
